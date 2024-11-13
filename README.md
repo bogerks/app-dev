@@ -1,6 +1,7 @@
 # Favorite Series
-1. Breaking Bad
-2. Stranger Things
-3. From
-4. Hunter X Hunter
-5. My Hero Academia
+## Breaking Bad
+Series about a professor and his student that cooked meth.
+## Stranger Things
+A series that has a alternative world called upside down with many different things.
+## From
+This series is about a small town that has lost persons that are stuck in a loop hole.
